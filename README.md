@@ -45,7 +45,7 @@
 - *[с имитацией регистрации пользователей](https://github.com/MVerseau/UU_Learn_Django/tree/e2d10908b9ac18f3896492c701e4870546666de9/DjangoModule/UrbanDjango);*
 - *[с постраничным отображением контента](https://github.com/MVerseau/UU_Py_Dev/tree/8565f85ebd0173678f40341003ce6c123e36e8ec/MyBlog)*,
 
-***- [time tracker](https://github.com/MVerseau/Time_Tracker)***.
+***- [time tracker](https://github.com/MVerseau/Time_Tracker)***
 
 "Следилка" за временем, потраченным на тот или иной проект, с возможность выгрузки по заказчику, по проекту. Рассчитывает стоимость проекта исходя из почасовой ставки. NoSQL БД.
 
